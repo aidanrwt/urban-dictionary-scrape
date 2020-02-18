@@ -1,14 +1,5 @@
-# SESS 22:48-23:33$15/02/2020
-#
 # This script scrapes the entirety of Urban Dictionarys' terms, obtained from the 
 # /sitemap.xml.gz file.
-#
-# This wordlist could be useful for trend analysis purposes, or general password
-# cracking. Simple modifications could be made to this script to scrape corresponding
-# entry dates along with the relative "thumbs" ratings for each specific term for
-# further processing.
-#
-# Created by Aidan <aidan.r.w.t [at] gmail (dot) com>
 
 import re
 import urllib
